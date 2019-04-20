@@ -1849,7 +1849,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9e1dd6;
+  background: #ffa263;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2965,19 +2965,8 @@ ul.breadcrumb li+li:last-child {
 .with-love {
   color: #ff71a8;
 }
-.out-img-topic {
-  display: block;
-  max-height: 300px;
-  margin-bottom: 24px;
-  overflow: hidden;
-}
 img.img-topic {
-  display: block;
-  margin-left: 0.7em;
-  margin-right: 0.7em;
-  padding: 0;
-  float: right;
-  clear: right;
+  width: 80%;
 }
 @-moz-keyframes heartAnimate {
   0%, 100% {
